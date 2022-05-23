@@ -2,6 +2,8 @@
 env.py
 explore.py
 imports.py
+*_json/
+*_csv/
 __pycache__/
 __init__.py
 .DS_Store
